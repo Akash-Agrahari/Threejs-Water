@@ -6,8 +6,6 @@ import HeightmapFragment from "../shaders/HeightmapFragment.glsl";
 import {GUI} from 'lil-gui'
 import { RGBELoader } from 'three/examples/jsm/loaders/RGBELoader.js';
 import { PMREMGenerator } from 'three';
-import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js';
-import { TextGeometry } from 'three/examples/jsm/geometries/TextGeometry.js';
 
 
 // Create scene
