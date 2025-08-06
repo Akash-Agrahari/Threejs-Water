@@ -46,7 +46,7 @@ renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
 
 
 const textureLoader = new THREE.TextureLoader();
-const texture = textureLoader.load('../public/black.png');
+const texture = textureLoader.load('../black.png');
 
 
 const rgeb = new RGBELoader()
